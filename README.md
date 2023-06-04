@@ -10,3 +10,10 @@ The current version of the registration system includes the following features:
 4. Database Integration: User information is stored in a MySQL database.
 
 # Made with XAMMP
+
+* index.php - registration file
+* login.php - login file
+* home.php - page with main content (in future)
+* check.php -> index.php 
+* auth.php -> login.php
+* exit.php -> log out file
